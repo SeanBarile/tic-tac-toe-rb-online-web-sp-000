@@ -2,9 +2,15 @@
   "RSpec": {
     "coverage": {
       "/home/sbarile/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
-
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
       ]
     },
-    "timestamp": 1557949096
+    "timestamp": 1557949202
   }
 }
