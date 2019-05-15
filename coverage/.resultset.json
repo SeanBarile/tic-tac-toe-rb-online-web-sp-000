@@ -3,14 +3,41 @@
     "coverage": {
       "/home/sbarile/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
         1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
         0,
         0,
         0,
         0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
         0,
         null
       ]
     },
-    "timestamp": 1557949202
+    "timestamp": 1557949279
   }
 }
